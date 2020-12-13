@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 
- * @author 11158
  * 模拟list不释放，造成内存占用高
  */
 
